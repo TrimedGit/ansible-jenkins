@@ -1,1 +1,1 @@
-mavariable: "Trimed PIM"
+<h1>Hello {{ mavariable }}</h1>
